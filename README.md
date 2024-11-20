@@ -3,3 +3,4 @@
 # LAB-03 (https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab3_AIML.ipynb)
 # LAB-04 (https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab04_AIML.ipynb)
 # LAB-05 (https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab05-AIML.ipynb)
+ #LAB-06(https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab06_AIML.ipynb)
