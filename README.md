@@ -15,3 +15,5 @@
  #LAB-08(https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab08_AIML.ipynb)
 
  #LAB-09(https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab09_AIML.ipynb)
+
+ #LAB-10(https://github.com/2303A52230/AIML_2303A52230/blob/main/Lab10_AIML.ipynb)
